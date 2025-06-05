@@ -1,0 +1,20 @@
+itemId,itemName,itemPrice,itemQuantity,availability,mfgDate,expDate,weight,itemCapacity,extraDetails,purchasePrice,supplierName,extraClassType
+1,Olper's Milk,250,0,1,01/10/2028,01/10/2028,1,1000,0.2,180,Engro Foods,DairyProducts
+3,Tapal Danedar Tea,500,30,1,01/10/2024,01/10/2025,0.9,50,FALSE,450,Tapal Tea,Beverages
+4,National Ketchup,150,40,1,01/09/2024,01/09/2025,0.5,60,FALSE,130,National Foods,Beverages
+5,Nestle Yogurt,50,60,1,10/12/2024,25/12/2024,0.5,100,0.3,45,Nestle Pakistan,DairyProducts
+6,Almond Milk,250,20,1,01/12/2024,15/01/2025,1,200,0.2,230,Almond Foods,DairyProducts
+7,Breakfast Cereal,120,150,1,01/11/2024,01/11/2026,0.3,500,TRUE,100,Health Foods,BakeryProducts
+8,Peach Ice Cream,350,25,1,01/07/2024,01/07/2025,0.5,200,-10,320,IceCream Co.,Frozen
+9,Cream Cake,180,100,1,01/06/2024,01/06/2026,1.2,300,FALSE,150,Asian Foods,BakeryProducts
+10,Frozen French Fries,300,50,1,01/08/2024,01/08/2025,0.8,500,-10,250,Frozen Foods,Frozen
+11,Smart Bulb,1200,70,1,01/09/2024,01/09/2025,0.3,200,Electric,950,Lighting Co.,HouseHold
+12,Electric Kettle,2200,40,1,15/07/2024,15/07/2025,1.5,150,Electric,1800,Home Appliances,HouseHold
+13,Hand Blender,1500,60,1,01/06/2024,01/06/2025,0.7,300,Non-Electric,1200,Kitchen Co.,HouseHold
+14,Cotton Towels,500,100,1,01/12/2024,01/12/2025,0.3,100,Non-Electric,200,Textiles Co.,HouseHold
+15,Shampoo,200,150,1,01/11/2024,01/11/2026,0.5,300,Non-Electric,150,Beauty Co.,HouseHold
+16,Hair Conditioner,250,150,1,15/10/2024,15/10/2025,0.5,300,Non-Electric,200,Beauty Co.,HouseHold
+17,Chocolates,100,200,1,01/12/2024,01/12/2025,0.2,100,TRUE,80,Chocolate Co.,BakeryProducts
+18,Red Wine,1200,10,1,10/12/2024,10/12/2025,1.2,750,TRUE,1000,Wine Co.,Beverages
+19,Whiskey,2500,5,1,01/09/2024,01/09/2025,1.5,700,TRUE,2000,Spirits Co.,Beverages
+20,Orange Juice,200,100,1,01/12/2024,01/12/2025,1,500,FALSE,150,Juice Co.,Beverages
